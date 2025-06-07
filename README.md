@@ -1,4 +1,4 @@
-Great choice! ✅ Wiki.js is a powerful, modern, and lightweight wiki engine that runs well in Kubernetes and is much easier to manage than Discourse in this case. It uses a clean Node.js backend and supports multiple databases (like PostgreSQL or MySQL).
+✅ Wiki.js is a powerful, modern, and lightweight wiki engine that runs well in Kubernetes and is much easier to manage than Discourse in this case. It uses a clean Node.js backend and supports multiple databases (like PostgreSQL or MySQL).
 
 🧹 Step 1: Clean Up Old Resources
 To completely remove your previous Discourse/Nextcloud setup:
